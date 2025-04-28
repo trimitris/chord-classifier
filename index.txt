@@ -1,0 +1,56 @@
+# In this file certain notations and terminology used are explained:
+
+File naming conventions for guitar chord shapes:
+
+Major (maj):
+Shape 1:
+|o| | | | |
+|o| | | | |
+| |o| | | |
+| | |o| | |
+| | |o| | |
+|o| | | | |
+
+
+Minor (m):
+Shape 1:
+|o| | | | |
+|o| | | | |
+|o| | | | |
+| | |o| | |
+| | |o| | |
+|o| | | | |
+
+Sus2 (sus2):
+Shape 1:
+|o| | | | |
+| | | |o| |
+| | |o| | |
+|o| | | | |
+|o| | | | |
+|o| | | | |
+Shape 2:
+|o| | | | |
+|o| | | | |
+| | |o| | |
+| | |o| | |
+|o| | | | |
+|o| | | | |
+
+Sus4 (sus4):
+Shape 1:
+| | | |o| |
+| | | |o| |
+| | |o| | |
+|o| | | | |
+|o| | | | |
+|x| | | | |
+
+Dominant 7th (7):
+Shape 1:
+|o| | | | |
+|o| | | | |
+| |o| | | |
+|o| | | | |
+| | |o| | |
+|o| | | | |

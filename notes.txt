@@ -1,0 +1,13 @@
+Things to improve:
+- Identify the end of a chord or note (When energy of recording falls below a certain threshold, or when another onset has been detected) (done)
+- Do variable smoothing depending on the persistence of energy in the signal. (This idea comes from the fact that by playing notes fast, the energy of the signal doesn't decay, until the fast bit is over)
+- Change value of sigma at runtime if no max point is found (done)
+
+This week:
+- Record riff with multiple chords (done)
+- Note end detection
+    - Do smoothing and find all the note onsets in the recording (done)
+    - Define a single chord's frame collection to start from a note onset and to finish on either: i) the next note onset ii) when amplitude falls below a threshold (done)
+    - Need a way to define the ampl threshold
+        - Find average energy of signal for a range of frames (maybe)
+	- relative to peak? e.g. 1/8 of the peak's ampl
